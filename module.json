@@ -1,0 +1,49 @@
+{
+  "id": "niks-macros",
+  "title": "Content: Macros",
+  "description": "Nik's script macros for Foundry VTT V14: a system-neutral compendium (scenes, walls, tokens, chat, settings) and a D&D 5e compendium (HP, XP, initiative, ability and Max HP drain).",
+  "url": "https://github.com/nschoenwald/niks-macros",
+  "manifest": "https://github.com/nschoenwald/niks-macros/releases/latest/download/module.json",
+  "download": "https://github.com/nschoenwald/niks-macros/releases/latest/download/module.zip",
+  "version": "14.1.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "niks-macros-system-neutral",
+      "label": "Nik's Macros (System-neutral)",
+      "path": "packs/niks-macros-system-neutral",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "niks-macros-dnd5e",
+      "label": "Nik's Macros (DnD5e)",
+      "path": "packs/niks-macros-dnd5e",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "authors": [
+    {
+      "name": "Nik",
+      "discord": "nikolai.sw",
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Release archives
+*.zip
+
+# LevelDB runtime files (recreated by Foundry; the data lives in the .ldb/.log/MANIFEST/CURRENT files)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
+
+# Markdown: ignore all, except the docs published with the repo
+*.md
+!README.md
+!CHANGELOG.md
