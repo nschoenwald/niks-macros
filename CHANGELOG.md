@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [14.3.0] - 2026-11-08
+### Changed
+- **All macros**: Every macro now uses the same kind of dialog, follows your light or dark theme (no more dark-only colours), and uses the same wording for "GM only", "select a token" and "no combat". Results show as one notification, and chat summaries share one layout.
+- **Compendiums**: Macros are sorted into folders (System-neutral: Combat, Scene, Tokens, World; DnD5e: Combat, Hit Points, Drain & Buffs, Experience & Treasure, Tokens) and have shorter, consistent names, for example "Monster: TempHPMax" is now **Max HP Drain** and "EXP value of selected enemies (difficulty calculation)" is now **Encounter XP & Difficulty**. Copies you already imported into your world keep their old names.
+- **Next Turn / Previous Turn**, **Random Target**, **Battle Medic**, **Roll NPC HP**: New icons. Next and Previous Turn no longer load their icons from an external website.
+- **Copy Token Settings to NPCs** (was "Apply selected token's setting to all NPC tokens"): Choose this scene or all scenes, and whether to copy the image scale. Detection modes are now copied exactly. Works in any system (NPC = token without a player owner).
+- **Delete Chat by Time**: Shows the cutoff date and how many messages you can delete while you type.
+- **Delete Templates**: Shows sizes in scene units and finds templates reliably.
+- **Token Light Picker**: Stays open so you can try several lights, and each button shows the light's colour.
+- **Roll NPC HP (Scene / Selected)**: Whispers the rolled HP to the GMs, uses the NPC's roll data in the formula, and the Scene version asks before replacing HP.
+- **Encounter XP & Difficulty**: Preselects the average level of the players' characters.
+- **Convert Currency to Gold**: Characters are picked with checkboxes and a search, with a before/after table.
+- **Refresh Scene Thumbnails** and **Update All Token Bars**: Ask for confirmation before they start.
+
+### Fixed
+- **Delete Templates**: Deleting templates no longer risks canvas errors.
+
 ## [14.2.0] - 2026-11-08
 ### Fixed
 - **Clean up unused world settings**: No longer pre-selects modules that are only disabled. Their settings are listed separately and stay unless you tick them, settings of world scripts are never listed, and a backup of everything deleted is downloaded first.
