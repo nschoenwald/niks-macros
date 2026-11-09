@@ -104,3 +104,13 @@ For the D&D 5e system.
 | Macro | What it does |
 |---|---|
 | Update All Token Bars | Sets every token to show its name and HP bar to the owner, and updates the NPC prototype tokens. |
+
+## Source code
+
+Each macro's script is in [`src/`](src), one `.js` file per macro (with a `.json` file for its name, icon and
+folder), sorted like the compendium folders. The compendiums in `packs/` are built from these files:
+
+- `node tools/pack.mjs` builds the packs from `src/`, `node tools/unpack.mjs` does the reverse.
+- `node tools/pack.mjs --check` reports whether both match. `node tools/lint.mjs` lints the macros.
+
+Both pack tools need Foundry to be closed and the `classic-level` package (`npm install classic-level`).

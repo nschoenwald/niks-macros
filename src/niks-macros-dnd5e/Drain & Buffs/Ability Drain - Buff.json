@@ -1,0 +1,27 @@
+{
+  "_id": "TORFlKdbUsRcZyA2",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.370",
+    "createdTime": 1794065773728,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "Z3m4vw6emar7R4Mz",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderDrains01",
+  "img": "icons/magic/control/voodoo-doll-pain-damage-pink.webp",
+  "name": "Ability Drain / Buff",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 0,
+  "type": "script"
+}

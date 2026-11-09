@@ -13,3 +13,7 @@ packs/**/LOG.old
 *.md
 !README.md
 !CHANGELOG.md
+
+# Node / tools
+node_modules/
+lint-tmp/

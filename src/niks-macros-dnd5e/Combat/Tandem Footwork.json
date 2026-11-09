@@ -1,0 +1,26 @@
+{
+  "_id": "j7qn2SsnduLZehpR",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.363",
+    "createdTime": 1769722987683,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderCombat02",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "name": "Tandem Footwork",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 300000,
+  "type": "script"
+}

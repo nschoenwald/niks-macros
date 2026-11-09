@@ -1,0 +1,28 @@
+{
+  "_id": "ICdYeRz1sxqf76RZ",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1766222682614,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderCombat01",
+  "img": "icons/magic/time/clock-spinning-gold-pink.webp",
+  "name": "Adjust NPC Initiative",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "mPbas0r2dlPLxA9x": 3,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 800000,
+  "type": "script"
+}

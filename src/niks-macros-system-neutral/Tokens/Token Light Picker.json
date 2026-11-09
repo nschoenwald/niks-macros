@@ -1,0 +1,31 @@
+{
+  "_id": "lG22ZK4gN1q6nqD3",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1766222778019,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {
+    "core": {}
+  },
+  "folder": "nmFolderTokens01",
+  "img": "icons/sundries/lights/torch-brown-lit.webp",
+  "name": "Token Light Picker",
+  "ownership": {
+    "Ihg37JUkaga9j2ZG": 3,
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "fn0xK7NLv5mHgeVr": 3,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 1700000,
+  "type": "script"
+}

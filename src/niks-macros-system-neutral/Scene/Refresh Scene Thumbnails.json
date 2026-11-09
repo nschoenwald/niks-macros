@@ -1,0 +1,27 @@
+{
+  "_id": "XILEKEwkYeZ0god1",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.368",
+    "createdTime": 1791013425938,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "Z3m4vw6emar7R4Mz",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderScene001",
+  "img": "icons/sundries/flags/banner-symbol-sun-gold-red.webp",
+  "name": "Refresh Scene Thumbnails",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 1650000,
+  "type": "script"
+}

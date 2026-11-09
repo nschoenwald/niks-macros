@@ -1,0 +1,26 @@
+{
+  "_id": "L0lU0ZQcDHyIN8Th",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.364",
+    "createdTime": 1766222685081,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderCombat02",
+  "img": "icons/magic/time/arrows-circling-green.webp",
+  "name": "Alert: Swap Initiative",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 1000000,
+  "type": "script"
+}

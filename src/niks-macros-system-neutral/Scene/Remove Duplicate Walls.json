@@ -1,0 +1,27 @@
+{
+  "_id": "tmMeLqe55vvNzyII",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1786119287789,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3"
+  },
+  "author": "3YzDpIevplbzwfsy",
+  "flags": {},
+  "folder": "nmFolderScene001",
+  "img": "icons/magic/earth/barrier-stone-explosion-debris.webp",
+  "name": "Remove Duplicate Walls",
+  "ownership": {
+    "3YzDpIevplbzwfsy": 3,
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 300000,
+  "type": "script"
+}

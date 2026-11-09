@@ -1,0 +1,26 @@
+{
+  "_id": "SlR22zw7I7eT9n2N",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1782741359607,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderCombat01",
+  "img": "icons/sundries/gaming/dice-runed-tan.webp",
+  "name": "Random Target",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 200000,
+  "type": "script"
+}

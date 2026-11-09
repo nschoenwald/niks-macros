@@ -1,0 +1,26 @@
+{
+  "_id": "oK91y0mGE5qaarpi",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.363",
+    "createdTime": 1779905400179,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3"
+  },
+  "author": "WuzBubBCIlS1IVB9",
+  "flags": {},
+  "folder": "nmFolderXpLoot01",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "name": "XP Distribution",
+  "ownership": {
+    "WuzBubBCIlS1IVB9": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 0,
+  "type": "script"
+}

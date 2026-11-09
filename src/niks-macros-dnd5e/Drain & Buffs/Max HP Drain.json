@@ -1,0 +1,26 @@
+{
+  "_id": "erAi1ft0hYRmK1W2",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.370",
+    "createdTime": 1794065556174,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "Z3m4vw6emar7R4Mz",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderDrains01",
+  "img": "icons/magic/unholy/strike-hand-glow-pink.webp",
+  "name": "Max HP Drain",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 0,
+  "type": "script"
+}

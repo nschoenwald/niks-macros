@@ -1,0 +1,26 @@
+{
+  "_id": "ptUvBp0oJue2FrUm",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.364",
+    "createdTime": 1779819504216,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3"
+  },
+  "author": "WuzBubBCIlS1IVB9",
+  "flags": {},
+  "folder": "nmFolderTokens02",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "name": "Update All Token Bars",
+  "ownership": {
+    "WuzBubBCIlS1IVB9": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 0,
+  "type": "script"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "0Ej9fLMA9AxvEKsE",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.369",
+    "createdTime": 1766222691927,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderCombat02",
+  "img": "icons/magic/life/heart-cross-green.webp",
+  "name": "Battle Medic",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 1200000,
+  "type": "script"
+}

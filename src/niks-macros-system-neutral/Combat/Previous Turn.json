@@ -1,0 +1,30 @@
+{
+  "_id": "TphYLZaGRh1q043d",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1766222742348,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {
+    "core": {}
+  },
+  "folder": "nmFolderCombat01",
+  "img": "icons/skills/movement/arrow-upward-white.webp",
+  "name": "Previous Turn",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "fn0xK7NLv5mHgeVr": 3,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 1300000,
+  "type": "script"
+}

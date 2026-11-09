@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "nmFolderCombat01",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.365",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "3YzDpIevplbzwfsy",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Combat",
+    "sort": 100000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderScene001",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.365",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "3YzDpIevplbzwfsy",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Scene",
+    "sort": 200000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderTokens01",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.365",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "3YzDpIevplbzwfsy",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Tokens",
+    "sort": 300000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderWorld001",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.365",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "3YzDpIevplbzwfsy",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "World",
+    "sort": 400000,
+    "sorting": "a",
+    "type": "Macro"
+  }
+]

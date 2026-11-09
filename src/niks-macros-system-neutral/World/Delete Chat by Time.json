@@ -1,0 +1,27 @@
+{
+  "_id": "uJqexUWy2cTSUqGg",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1780666263397,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3"
+  },
+  "author": "WuzBubBCIlS1IVB9",
+  "flags": {},
+  "folder": "nmFolderWorld001",
+  "img": "icons/sundries/misc/teeth-dentures.webp",
+  "name": "Delete Chat by Time",
+  "ownership": {
+    "WuzBubBCIlS1IVB9": 3,
+    "default": 0,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 400000,
+  "type": "script"
+}

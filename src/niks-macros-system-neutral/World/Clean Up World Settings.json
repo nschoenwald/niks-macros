@@ -1,0 +1,26 @@
+{
+  "_id": "jmnAQ8ih01C1CUpK",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1775134306224,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.0"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderWorld001",
+  "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+  "name": "Clean Up World Settings",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 700000,
+  "type": "script"
+}

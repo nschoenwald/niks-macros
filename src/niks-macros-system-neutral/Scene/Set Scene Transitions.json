@@ -1,0 +1,26 @@
+{
+  "_id": "SwXJGuSYMUexiWzH",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1778018962421,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.2"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderScene001",
+  "img": "icons/magic/air/wind-swirl-gray-blue.webp",
+  "name": "Set Scene Transitions",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 500000,
+  "type": "script"
+}

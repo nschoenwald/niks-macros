@@ -1,0 +1,26 @@
+{
+  "_id": "2coLCuJoNf6aCdSe",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.363",
+    "createdTime": 1766222709255,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderXpLoot01",
+  "img": "icons/commodities/currency/coins-plain-stack-gold-yellow.webp",
+  "name": "Convert Currency to Gold",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 1100000,
+  "type": "script"
+}

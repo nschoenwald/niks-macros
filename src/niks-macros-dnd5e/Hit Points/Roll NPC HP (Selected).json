@@ -1,0 +1,29 @@
+{
+  "_id": "jhX4KutKR9SAPTo9",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.363",
+    "createdTime": 1766222761442,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {
+    "core": {}
+  },
+  "folder": "nmFolderHitPts01",
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
+  "name": "Roll NPC HP (Selected)",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0,
+    "rWF0xAg7uonJSZWd": 3
+  },
+  "scope": "global",
+  "sort": 700000,
+  "type": "script"
+}

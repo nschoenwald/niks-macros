@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "nmFolderCombat02",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.369",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "WuzBubBCIlS1IVB9",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Combat",
+    "sort": 100000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderHitPts01",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.369",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "WuzBubBCIlS1IVB9",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Hit Points",
+    "sort": 200000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderDrains01",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.369",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "WuzBubBCIlS1IVB9",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Drain & Buffs",
+    "sort": 300000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderXpLoot01",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.369",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "WuzBubBCIlS1IVB9",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Experience & Treasure",
+    "sort": 400000,
+    "sorting": "a",
+    "type": "Macro"
+  },
+  {
+    "_id": "nmFolderTokens02",
+    "_stats": {
+      "compendiumSource": null,
+      "coreVersion": "14.369",
+      "createdTime": 1794175895900,
+      "duplicateSource": null,
+      "exportSource": null,
+      "lastModifiedBy": "WuzBubBCIlS1IVB9",
+      "modifiedTime": 1794175895900,
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.4"
+    },
+    "color": null,
+    "description": "",
+    "flags": {},
+    "folder": null,
+    "name": "Tokens",
+    "sort": 500000,
+    "sorting": "a",
+    "type": "Macro"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "_id": "HRIPBwCQKFRhaTjS",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.363",
+    "createdTime": 1766222759974,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "WuzBubBCIlS1IVB9",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {
+    "core": {}
+  },
+  "folder": "nmFolderHitPts01",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "name": "Roll NPC HP (Scene)",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 500000,
+  "type": "script"
+}

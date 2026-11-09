@@ -1,0 +1,27 @@
+{
+  "_id": "t5GrK30YdDqM5Ld6",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.365",
+    "createdTime": 1766222689480,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "3YzDpIevplbzwfsy",
+    "modifiedTime": 1794175895900,
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.4"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderTokens01",
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "name": "Copy Token Settings to NPCs",
+  "ownership": {
+    "WuzBubBCIlS1IVB9": 3,
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 900000,
+  "type": "script"
+}
