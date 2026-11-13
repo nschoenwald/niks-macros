@@ -1,0 +1,16 @@
+{
+  "NIKS_MACROS": {
+    "Settings": {
+      "AutoUpdate": {
+        "Name": "Importierte Makros automatisch aktualisieren",
+        "Hint": "Nach einem Modul-Update werden Makros, die du aus Nik's Macros importiert hast, auf die neue Version aktualisiert, und die SLs erhalten eine Flüsternachricht mit der Liste. Makros, die du in dieser Welt bearbeitet hast, bleiben unverändert."
+      }
+    },
+    "Update": {
+      "Title": "Nik's Macros {version}",
+      "Updated": "Diese Makros wurden auf die neue Version aktualisiert:",
+      "Edited": "Diese Makros wurden nicht aktualisiert, weil sie in dieser Welt geändert wurden. Importiere sie erneut aus dem Kompendium, um die neue Version zu erhalten:",
+      "Failed": "Nik's Macros: Das Aktualisieren der importierten Makros ist fehlgeschlagen. Siehe Konsole (F12)."
+    }
+  }
+}

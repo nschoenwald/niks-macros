@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [14.5.0] - 2026-11-13
+### Added
+- **Automatic updates of imported macros**: Macros you imported from these compendiums now update themselves when a new version of the module comes out. The next time a GM loads the world, they're replaced with the new version (name, folder, permissions, hotbar slot and custom icons stay) and the GMs get a whisper listing them. Macros you changed in your world are never overwritten; they're listed in the whisper instead. Can be turned off in the module settings.
+
 ## [14.4.0] - 2026-11-09
 ### Added
 - **Simplify Region Shapes**: Cleans up regions built from many overlapping shapes and holes. Overlapping and touching shapes become one polygon, holes are cut into it, and holes or shapes that make no difference are removed, so the region covers exactly the same area with far fewer shapes. Shapes that touch nothing else stay as they are (a lone circle stays an editable circle), tiny slivers can be dropped, and Restore brings back the old shapes. Regions limited by walls keep that setting.

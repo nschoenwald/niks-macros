@@ -24,6 +24,19 @@ This module is only available here on GitHub, not in Foundry's package list.
   you close them.
 - GM tools whisper their results to the GMs; results the table should see are posted to chat for everyone.
 
+## Automatic updates of imported macros
+
+Macros you drag from these compendiums to your hotbar or into the Macros sidebar are updated automatically when a new
+version of the module comes out:
+
+- After the update, the next time a GM loads the world, every imported macro is replaced with the new version. Its
+  name, folder, permissions and hotbar slot stay as they are; a custom icon you gave it stays too.
+- The GMs get a whisper listing the macros that were updated.
+- A macro whose script you changed in your world is never overwritten. It's listed in the whisper instead; import it
+  again from the compendium if you want the new version.
+- Macros you made by copying the code into a new macro aren't linked to the compendium, so they aren't updated.
+- You can turn this off in the module settings (**Update imported macros automatically**).
+
 ## Nik's Macros (System-neutral)
 
 Works in any game system.
@@ -113,5 +126,7 @@ folder), sorted like the compendium folders. The compendiums in `packs/` are bui
 
 - `node tools/pack.mjs` builds the packs from `src/`, `node tools/unpack.mjs` does the reverse.
 - `node tools/pack.mjs --check` reports whether both match. `node tools/lint.mjs` lints the macros.
+- `node tools/known-versions.mjs` records every version of every macro the module has shipped (from the git history),
+  so the automatic update can tell an outdated macro from one that was edited in a world. Run it before each release.
 
 Both pack tools need Foundry to be closed and the `classic-level` package (`npm install classic-level`).

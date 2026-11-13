@@ -1,0 +1,16 @@
+{
+  "NIKS_MACROS": {
+    "Settings": {
+      "AutoUpdate": {
+        "Name": "Update imported macros automatically",
+        "Hint": "After a module update, macros you imported from Nik's Macros are updated to the new version, and the GMs get a whisper listing them. Macros you edited in this world are left alone."
+      }
+    },
+    "Update": {
+      "Title": "Nik's Macros {version}",
+      "Updated": "These macros were updated to the new version:",
+      "Edited": "These macros were not updated because they were changed in this world. Import them again from the compendium to get the new version:",
+      "Failed": "Nik's Macros: updating the imported macros failed. See the console (F12)."
+    }
+  }
+}
