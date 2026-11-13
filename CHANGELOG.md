@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [14.6.0] - 2026-11-13
+### Changed
+- The module is now called **Nik's Macros** (it was "Content: Macros") in the module list, the settings and the update whisper. Nothing else changes, and macros you already imported keep working.
+
 ## [14.5.0] - 2026-11-13
 ### Added
 - **Automatic updates of imported macros**: Macros you imported from these compendiums now update themselves when a new version of the module comes out. The next time a GM loads the world, they're replaced with the new version (name, folder, permissions, hotbar slot and custom icons stay) and the GMs get a whisper listing them. Macros you changed in your world are never overwritten; they're listed in the whisper instead. Can be turned off in the module settings.
