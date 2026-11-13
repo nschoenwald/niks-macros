@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [14.4.0] - 2026-11-09
+### Added
+- **Simplify Region Shapes**: Cleans up regions built from many overlapping shapes and holes. Overlapping and touching shapes become one polygon, holes are cut into it, and holes or shapes that make no difference are removed, so the region covers exactly the same area with far fewer shapes. Shapes that touch nothing else stay as they are (a lone circle stays an editable circle), tiny slivers can be dropped, and Restore brings back the old shapes. Regions limited by walls keep that setting.
+
 ## [14.3.0] - 2026-11-08
 ### Changed
 - **All macros**: Every macro now uses the same kind of dialog, follows your light or dark theme (no more dark-only colours), and uses the same wording for "GM only", "select a token" and "no combat". Results show as one notification, and chat summaries share one layout.

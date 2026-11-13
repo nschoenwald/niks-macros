@@ -1,0 +1,26 @@
+{
+  "_id": "jMfToDG4rl4ErxBa",
+  "_stats": {
+    "compendiumSource": null,
+    "coreVersion": "14.370",
+    "createdTime": 1794248824120,
+    "duplicateSource": null,
+    "exportSource": null,
+    "lastModifiedBy": "Z3m4vw6emar7R4Mz",
+    "modifiedTime": 1794248824120,
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6"
+  },
+  "author": "Z3m4vw6emar7R4Mz",
+  "flags": {},
+  "folder": "nmFolderScene001",
+  "img": "icons/tools/navigation/map-chart-tan.webp",
+  "name": "Simplify Region Shapes",
+  "ownership": {
+    "Z3m4vw6emar7R4Mz": 3,
+    "default": 0
+  },
+  "scope": "global",
+  "sort": 1700000,
+  "type": "script"
+}

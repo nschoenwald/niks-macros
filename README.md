@@ -46,6 +46,7 @@ Works in any game system.
 | Refresh Scene Thumbnails | Regenerates the thumbnails of the world's scenes and of the scenes in the world's own compendiums. |
 | Remove Duplicate Walls | Removes walls with identical coordinates, keeping doors over plain walls and leaving walls with different settings alone. Dry run and JSON backup included. |
 | Scale Tile to Image Size | Resizes the selected tile to its image's size times a factor. |
+| Simplify Region Shapes | Rebuilds the selected regions (or all on the scene) from the fewest shapes that cover the same area: overlapping shapes merge into one polygon, holes are cut in, and shapes or holes that change nothing are dropped. Shapes that touch nothing else stay as they are; tiny slivers can be removed. The old shapes are kept on each region, and Restore puts them back. |
 | Set Scene Transitions | Sets one transition effect (or none) and duration (500–10,000 ms) on every scene. |
 
 ### Tokens
